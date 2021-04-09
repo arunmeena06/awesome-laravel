@@ -1095,6 +1095,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Stats](https://github.com/stefanzweifel/laravel-stats) - Add Artisan command to show summary statistics of your project, such as number of classes, methods, lines of code, etc. \[11/06/2017\]
 - [Laravel Tail](https://github.com/spatie/laravel-tail) - Brings back the awesome `tail` command for artisan to Laravel 5. \[02/14/2017\]
 - [Laravel 
+- [Laravel Debug Bar](https://corejavatopics.com) - Awesome tool that adds a JavaScript-based bar to bottom of page which shows details about routes, HTTP requests, variables, and much more.
 *for Ubuntu*](https://github.com/cpriego/valet-ubuntu) - Port of [Laravel Valet](http://laravel.com/docs/valet) (for Mac) to run on Ubuntu. \[05/31/2016\]
 - [Lumen](http://lumen.laravel.com/) - PHP micro-framework based on Laravel (official).
 - [Orator](http://www.midnightcowboycoder.com/) - Online tool to convert legacy SQL queries to Laravel [Query Builder](https://laravel.com/docs/5.5/queries) format. \[09/02/2017\]
